@@ -21,7 +21,7 @@ Program to find the square root for the given number(newton's method) using func
 Developed by: 
 RegisterNumber:  */
 
-def newton_method(number, number_iters = 100):
+def newton_method(number, number_iters = 10000):
 
     a = float(number) 
 
